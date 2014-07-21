@@ -1,0 +1,12 @@
+{
+	"name": "fufulabs/yiinstalk",
+	"type": "library",
+	"homepage": "https://github.com/fufulabs/Yiinstalk.git",
+	"license": "MIT",
+	"autoload": {
+		"psr-0": {
+			"Yiinstalk\\": "lib"
+		}
+	}
+}
+
