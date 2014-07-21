@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/fufulabs/Yiinstalk.git",
 	"license": "MIT",
 	"require": {
-		"pda/pheanstalk": "3.*@dev",
+		"pda/pheanstalk": "3.*@dev"
 	},
 	"autoload": {
 		"psr-0": {
